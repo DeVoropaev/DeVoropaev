@@ -1,6 +1,6 @@
-<h1 align="center">
-Hi 👋 I'm Denis
-</h1>
+<h2 align="center">
+Denis Voropaev
+</h2>
 
 <p align="center">
 Frontend Engineer • React • TypeScript • AI
