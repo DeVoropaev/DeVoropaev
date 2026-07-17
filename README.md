@@ -3,7 +3,7 @@ Denis Voropaev
 </h2>
 
 <h4 align="center">
-React • TypeScript • Next.js
+Frontend Engineer • React • TypeScript • Next.js
 </h4>
 
 <p>
