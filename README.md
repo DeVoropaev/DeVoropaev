@@ -1,9 +1,14 @@
 <h2 align="center">
-Denis Voropaev
+Denis Voropaev • Frontend Engineer | React | TypeScript | Next.js
 </h2>
 
 <p align="center">
 Frontend Engineer • React • TypeScript • AI
+</p>
+<p>
+Frontend Engineer with **7 years** of experience building **AI-powered**, enterprise, and data-intensive web applications.
+
+I specialize in designing scalable frontend architectures with **React** and **TypeScript**, building products from MVP to enterprise scale, and solving complex UI and performance challenges.
 </p>
 
 ## Tech
