@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">
+Hi 👋 I'm Denis
+</h1>
 
-<!--
-**DeVoropaev/DeVoropaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Frontend Engineer • React • TypeScript • AI
+</p>
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React • TypeScript • Next.js • Zustand • React Query • Microfrontends • Feature-Sliced Design
+
+## What I build
+
+- AI Assistants
+- Enterprise Platforms
+- Digital Pathology Applications
+- Interactive Dashboards
+- Data-intensive Interfaces
+
+## Highlights
+
+- 7+ years of commercial experience
+- Built products from MVP to enterprise scale
+- Performance optimization
+- Frontend architecture
+- Technical leadership
+
+## Contact
+
+📧 devoro.dev@gmail.com
+
+💼 https://linkedin.com/in/denis-voropaev
